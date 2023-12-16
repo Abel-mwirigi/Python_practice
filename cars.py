@@ -27,3 +27,7 @@ print(sorted(cars))
 
 print("\nHere is the original list again:")
 print(cars)
+
+#function to print the list in reversal order
+cars.reverse()
+print(cars)
