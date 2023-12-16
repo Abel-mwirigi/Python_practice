@@ -31,3 +31,6 @@ print(cars)
 #function to print the list in reversal order
 cars.reverse()
 print(cars)
+
+#function to print the length of the list
+len(cars)
